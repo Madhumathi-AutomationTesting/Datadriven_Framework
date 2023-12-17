@@ -1,0 +1,328 @@
+1702368187360	geckodriver	INFO	Listening on 127.0.0.1:61357
+1702368190428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61358" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\madhu\\AppData\\Local\\Temp\\rust_mozprofileDFhD1V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702368190912	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702368191044	Marionette	INFO	Listening on port 61370
+WebDriver BiDi listening on ws://127.0.0.1:61358
+Read port: 61370
+1702368191292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61358/devtools/browser/768970eb-984c-48ef-94ea-db39a3f627f6
+1702368222068	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702371183355	Marionette	INFO	Stopped listening on port 61370
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\madhu\\AppData\\Local\\Temp\\rust_mozprofilesg5HuG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702370910811	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702370910891	Marionette	INFO	Listening on port 61937
+WebDriver BiDi listening on ws://127.0.0.1:61929
+Read port: 61937
+1702370911053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61929/devtools/browser/e4a56adc-a163-48fd-9732-21f6b4d5cd09
+1702370941488	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702371180564	Marionette	INFO	Stopped listening on port 61937
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62048" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\madhu\\AppData\\Local\\Temp\\rust_mozprofileJoH5Np"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702371017809	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702371017884	Marionette	INFO	Listening on port 62057
+WebDriver BiDi listening on ws://127.0.0.1:62048
+Read port: 62057
+1702371018065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62048/devtools/browser/192c9439-d6ab-4e6f-80a3-8e14740a20b3
+1702371048425	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702371178506	Marionette	INFO	Stopped listening on port 62057
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62168" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\madhu\\AppData\\Local\\Temp\\rust_mozprofilesHF1LY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702371142533	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702371142618	Marionette	INFO	Listening on port 62176
+WebDriver BiDi listening on ws://127.0.0.1:62168
+Read port: 62176
+1702371142788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62168/devtools/browser/7d0b600e-c27b-4f21-b46d-037fffe7c431
+1702371173189	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702371175991	Marionette	INFO	Stopped listening on port 62176
+Dynamically enable window occlusion 1
+1702372304211	geckodriver	INFO	Listening on 127.0.0.1:62980
+1702372307257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62981" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\madhu\\AppData\\Local\\Temp\\rust_mozprofileXzkGP0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702372307595	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702372307679	Marionette	INFO	Listening on port 62992
+WebDriver BiDi listening on ws://127.0.0.1:62981
+Read port: 62992
+1702372307832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62981/devtools/browser/c4cc202d-d7da-4ca3-ba91-6df97f12ab79
+1702372338406	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: (new TypeError("this.nodeHierarchy[this.currentIndex] is undefined", "resource://devtools/client/inspector/breadcrumbs.js", 804))
+console.error: (new TypeError("this.nodeHierarchy[this.currentIndex] is undefined", "resource://devtools/client/inspector/breadcrumbs.js", 804))
+1702465527898	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1702466372045	Marionette	INFO	Stopped listening on port 62992
+Dynamically enable window occlusion 1
+0
+1702372666464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63229/devtools/browser/7a6dca0d-7da8-4520-9cec-ef8d1a109378
+1702372676393	Marionette	INFO	Stopped listening on port 63240
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/shared/FormAutofillHandler.sys.mjs, line 78: TypeError: this.window is null
+console.error: (new RemoteSettingsWorkerError("Remote Settings has shut down.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+console.error: (new AbortError("Actor 'LoginManager' destroyed before query 'PasswordManager:findLogins' was resolved", (void 0)))
+1702372923372	geckodriver	INFO	Listening on 127.0.0.1:63466
+1702372926456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\madhu\\AppData\\Local\\Temp\\rust_mozprofilefYCDHe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702372926734	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702372926814	Marionette	INFO	Listening on port 63476
+WebDriver BiDi listening on ws://127.0.0.1:63467
+Read port: 63476
+1702372926955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63467/devtools/browser/ccffc4ed-c5da-4e28-a10e-feac8e4502c1
+1702372935193	Marionette	INFO	Stopped listening on port 63476
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/shared/FormAutofillHandler.sys.mjs, line 78: TypeError: this.window is null
+1702373052791	geckodriver	INFO	Listening on 127.0.0.1:63601
+1702373055854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63602" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\madhu\\AppData\\Local\\Temp\\rust_mozprofileYErv5W"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702373056079	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702373056161	Marionette	INFO	Listening on port 63610
+WebDriver BiDi listening on ws://127.0.0.1:63602
+Read port: 63610
+1702373056294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63602/devtools/browser/88953e27-56d3-49b9-a9df-230297f25258
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+1702373067075	Marionette	INFO	Stopped listening on port 63610
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/shared/FormAutofillHandler.sys.mjs, line 78: TypeError: this.window is null
+console.error: (new AbortError("Actor 'LoginManager' destroyed before query 'PasswordManager:findLogins' was resolved", (void 0)))
+1702373083415	geckodriver	INFO	Listening on 127.0.0.1:63679
+1702373086486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63680" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\madhu\\AppData\\Local\\Temp\\rust_mozprofileNYMMKF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702373086734	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702373086811	Marionette	INFO	Listening on port 63689
+WebDriver BiDi listening on ws://127.0.0.1:63680
+Read port: 63689
+1702373086920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63680/devtools/browser/88538725-d672-40ac-8b7c-a2349f660208
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+1702373096982	Marionette	INFO	Stopped listening on port 63689
+Dynamically enable window occlusion 1
+1702392102259	geckodriver	INFO	Listening on 127.0.0.1:50410
+1702392105322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50411" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\madhu\\AppData\\Local\\Temp\\rust_mozprofile4eKPbY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702392105710	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702392105818	Marionette	INFO	Listening on port 50420
+WebDriver BiDi listening on ws://127.0.0.1:50411
+Read port: 50420
+1702392106017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50411/devtools/browser/b6c7fb6e-4cb1-4349-ae3e-7060b21bb82d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1702392136834	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1702393676953	Marionette	INFO	Stopped listening on port 50420
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\madhu\\AppData\\Local\\Temp\\rust_mozprofileSoRM70"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702393668503	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702393668606	Marionette	INFO	Listening on port 50958
+WebDriver BiDi listening on ws://127.0.0.1:50948
+Read port: 50958
+1702393668790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50948/devtools/browser/2fd2c47e-a1dc-44cc-85cc-b62788825611
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+Exiting due to channel error.
+Exiting due to channel error.
+1702393686880	geckodriver	INFO	Listening on 127.0.0.1:51015
+1702393689960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51016" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\madhu\\AppData\\Local\\Temp\\rust_mozprofileJR6D7g"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702393690243	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702393690352	Marionette	INFO	Listening on port 51024
+WebDriver BiDi listening on ws://127.0.0.1:51016
+Read port: 51024
+1702393690508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51016/devtools/browser/c9a6ca3d-dc0b-4250-8b09-8390fdfb61db
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1702393721803	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1702466370062	Marionette	INFO	Stopped listening on port 51024
+Dynamically enable window occlusion 1
+st_mozprofileXQXh7I"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702393718370	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702393718467	Marionette	INFO	Listening on port 51091
+WebDriver BiDi listening on ws://127.0.0.1:51083
+Read port: 51091
+1702393718648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51083/devtools/browser/4d1217c3-7e10-4da8-acdd-0c399279cb20
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1702393748660	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1702466368445	Marionette	INFO	Stopped listening on port 51091
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "51648" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\madhu\\AppData\\Local\\Temp\\rust_mozprofilecwp5z8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702394836580	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702394836685	Marionette	INFO	Listening on port 51659
+WebDriver BiDi listening on ws://127.0.0.1:51648
+Read port: 51659
+1702394836912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51648/devtools/browser/841b5fc2-0092-4348-b9d3-9892d95805b3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1702394866651	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1702466362730	Marionette	INFO	Stopped listening on port 51659
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "52118" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\madhu\\AppData\\Local\\Temp\\rust_mozprofileAh39yc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702395620945	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702395621048	Marionette	INFO	Listening on port 52126
+WebDriver BiDi listening on ws://127.0.0.1:52118
+Read port: 52126
+1702395621238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52118/devtools/browser/07938140-db1d-4092-ae3f-1357ec131d79
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1702395651992	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1702466360309	Marionette	INFO	Stopped listening on port 52126
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "52333" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\madhu\\AppData\\Local\\Temp\\rust_mozprofileXYQHfu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702395907025	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702395907128	Marionette	INFO	Listening on port 52342
+WebDriver BiDi listening on ws://127.0.0.1:52333
+Read port: 52342
+1702395907311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52333/devtools/browser/fe6fcec5-cb63-4378-b51c-6e4846fc87a8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1702395939018	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702396071345	Marionette	INFO	Stopped listening on port 52342
+Dynamically enable window occlusion 1
+1702396077828	geckodriver	INFO	Listening on 127.0.0.1:52472
+1702396080883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52473" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\madhu\\AppData\\Local\\Temp\\rust_mozprofile4sTnJJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702396081224	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702396081314	Marionette	INFO	Listening on port 52481
+WebDriver BiDi listening on ws://127.0.0.1:52473
+Read port: 52481
+1702396081445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52473/devtools/browser/ce33d2c2-60ce-40ec-a2d8-d8147baaf05c
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2001))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1702396113210	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1702466358561	Marionette	INFO	Stopped listening on port 52481
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "52795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\madhu\\AppData\\Local\\Temp\\rust_mozprofileYByCDn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702396576647	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702396576742	Marionette	INFO	Listening on port 52803
+Read port: 52803
+WebDriver BiDi listening on ws://127.0.0.1:52795
+1702396576806	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52795/devtools/browser/b25be386-280b-41f9-918f-e6372da6c615
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1702396599535	Marionette	INFO	Stopped listening on port 52803
+Dynamically enable window occlusion 1
+1702828987204	geckodriver	INFO	Listening on 127.0.0.1:51100
+1702828990269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\madhu\\AppData\\Local\\Temp\\rust_mozprofile9bGTmd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702828990617	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702828990713	Marionette	INFO	Listening on port 51108
+Read port: 51108
+WebDriver BiDi listening on ws://127.0.0.1:51101
+1702828990772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51101/devtools/browser/b4f97396-1b69-4a63-9823-5892331fb298
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1702829017497	Marionette	INFO	Stopped listening on port 51108
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/shared/FormAutofillHandler.sys.mjs, line 78: TypeError: this.window is null
+console.error: (new AbortError("Actor 'LoginManager' destroyed before query 'PasswordManager:findLogins' was resolved", (void 0)))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\madhu\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1\\History", "resource://gre/modules/Sqlite.sys.mjs", 1244))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\madhu\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1\\Web Data", "resource://gre/modules/Sqlite.sys.mjs", 1244))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\madhu\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1\\Login Data", "resource://gre/modules/Sqlite.sys.mjs", 1244))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\madhu\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1\\Web Data", "resource://gre/modules/Sqlite.sys.mjs", 1244))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\madhu\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data", "resource://gre/modules/Sqlite.sys.mjs", 1367))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\madhu\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\History", "resource://gre/modules/Sqlite.sys.mjs", 1367))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\madhu\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Web Data", "resource://gre/modules/Sqlite.sys.mjs", 1367))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\madhu\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Web Data", "resource://gre/modules/Sqlite.sys.mjs", 1367))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\madhu\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1\\History", "resource://gre/modules/Sqlite.sys.mjs", 1244))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\madhu\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1\\Web Data", "resource://gre/modules/Sqlite.sys.mjs", 1244))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\madhu\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1\\Login Data", "resource://gre/modules/Sqlite.sys.mjs", 1244))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\madhu\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1\\Web Data", "resource://gre/modules/Sqlite.sys.mjs", 1244))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\madhu\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data", "resource://gre/modules/Sqlite.sys.mjs", 1244))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\madhu\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\History", "resource://gre/modules/Sqlite.sys.mjs", 1244))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\madhu\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Web Data", "resource://gre/modules/Sqlite.sys.mjs", 1244))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\madhu\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Web Data", "resource://gre/modules/Sqlite.sys.mjs", 1244))
+console.error: (new AbortError("IOUtils: Shutting down and refusing additional I/O tasks", (void 0), 53))
